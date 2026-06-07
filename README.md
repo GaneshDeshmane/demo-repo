@@ -1,2 +1,2 @@
-# demo-repooo
+# demo-repositories
 # hi there
